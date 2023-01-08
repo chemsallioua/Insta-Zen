@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+test.py
+not_following_back.txt
+UnfollowBot.log
+
 # C extensions
 *.so
 
