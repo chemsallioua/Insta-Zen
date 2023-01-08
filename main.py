@@ -5,6 +5,8 @@ from pystray import MenuItem, Menu, Icon
 from PIL import Image
 from subprocess import Popen
 
+from credentials import account, password
+
 from logging import basicConfig, info, INFO
 import os
 import signal
@@ -78,7 +80,4 @@ class Instagram_Bot:
 if __name__ == '__main__':
     
     myInstaBot = Instagram_Bot()
-    
-    account = 'account username goes here'
-    password = 'password goes here'
     myInstaBot.run(account,password)
