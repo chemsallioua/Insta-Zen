@@ -7,6 +7,7 @@ test.py
 not_following_back.txt
 UnfollowBot.log
 .gitconfig
+credentials.py
 
 # C extensions
 *.so
