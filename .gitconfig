@@ -1,0 +1,9 @@
+[core]
+	editor = \"C:\\Users\\Chemes\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	name = Chemseddine Allioua
+	email = callioua@minsait.com
+[gui]
+	recentrepo = E:/Desktop/new
+[credential "https://gitlab.com"]
+	provider = generic

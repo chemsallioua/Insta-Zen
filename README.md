@@ -14,7 +14,7 @@ pip install webdriver_manager
 ```
 
 ## Set Up
-Save your credentials in credentials.py:
+Save your credentials in main.py:
 ```
 account = 'account username goes here'
 password = 'password goes here'

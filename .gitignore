@@ -6,6 +6,7 @@ __pycache__/
 test.py
 not_following_back.txt
 UnfollowBot.log
+.gitignore
 
 # C extensions
 *.so
